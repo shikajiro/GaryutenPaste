@@ -2,20 +2,29 @@
 This SublimeText plug-in paste erase the newline at the end of the text in the clipboard.
 
 ## directory
-├Sublime Text 2
-  ├─Packages
-    ├─GaryutenPaste
-      ├── Default\ (Linux).sublime-keymap
-      ├── Default\ (OSX).sublime-keymap
-      ├── Default\ (Windows).sublime-keymap
-      ├── GaryutenPaste.py
-      └── README.md
+
+├Sublime Text 2<br/>
+  ├─Packages<br/>
+    ├─GaryutenPaste<br/>
+      ├── Default\ (Linux).sublime-keymap<br/>
+      ├── Default\ (OSX).sublime-keymap<br/>
+      ├── Default\ (Windows).sublime-keymap<br/>
+      ├── GaryutenPaste.py<br/>
+      └── README.md<br/>
 
 ## sample
-"abcde\n"
-↓
-"abcde"
+
+    "hello\n"
+paste for [command + c]
+
+    "hello"
 
 ## how to use
-command + v 
+
+1.The clone in the package folder
+
+    $ cd /path/to/sublimetext
+    $ git clone https://github.com/shikajiro/GaryutenPaste.git
+
+2.let's paste command + v .
 
