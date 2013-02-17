@@ -3,14 +3,14 @@ This SublimeText plug-in paste erase the newline at the end of the text in the c
 
 ## directory
 
-├Sublime Text 2<br/>
-  ├─Packages<br/>
-    ├─GaryutenPaste<br/>
-      ├── Default\ (Linux).sublime-keymap<br/>
-      ├── Default\ (OSX).sublime-keymap<br/>
-      ├── Default\ (Windows).sublime-keymap<br/>
-      ├── GaryutenPaste.py<br/>
-      └── README.md<br/>
+    ├Sublime Text 2
+        ├─Packages
+            ├─GaryutenPaste
+                ├── Default\ (Linux).sublime-keymap
+                ├── Default\ (OSX).sublime-keymap
+                ├── Default\ (Windows).sublime-keymap
+                ├── GaryutenPaste.py
+                └── README.md
 
 ## sample
 
