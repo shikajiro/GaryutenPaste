@@ -15,7 +15,7 @@ This SublimeText plug-in paste erase the newline at the end of the text in the c
 ## sample
 
     "hello\n"
-paste for [command + c]
+paste for [command + v]
 
     "hello"
 
@@ -23,7 +23,7 @@ paste for [command + c]
 
 1.The clone in the package folder
 
-    $ cd /path/to/sublimetext
+    $ cd /path/to/Sublime Text 2/Packages
     $ git clone https://github.com/shikajiro/GaryutenPaste.git
 
 2.let's paste command + v .
